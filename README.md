@@ -15,10 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Bio
+
 - 🎓 I'm a graduate of **Yogyakarta University of Technology** 
 - 🔭 I’m currently working on **TechnoGis Indonesia**
-- 👨‍💻 **Mobile Developer | Android Native Specialist**
+- 👨‍💻 Proficient in **Flutter, Kotlin & Java**
+- 💾 Database: **Firebase | SQLite | REST API**
+- 🎨 Passionate about **UI/UX Design & Clean Code**
 - 💻 **Hardware Integration & Cloud Storage**
+- 🗂️ **Project list => [MyPortofolio](https://lynk.id/rizld.y_)**
+
+###
 
 #### Skills
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
@@ -26,7 +32,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 #### Connect with me
-![https://www.linkedin.com/in/muhammad-rizaldy-nur-cahya-b88182337/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.instagram.com/rizld.y_/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/>
+![https://www.linkedin.com/in/muhammad-rizaldy-nur-cahya-b88182337](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.instagram.com/rizld.y_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/>
 
 <h2 align="left"> Play game with me</h2>
 
