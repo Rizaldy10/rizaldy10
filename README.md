@@ -1,6 +1,3 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
 ![Muhammad Rizaldy Nur Cahya](img/github-header-banner.png)
 <!--
@@ -33,17 +30,6 @@ Here are some ideas to get you started:
 ##### Connect with me
 ![https://www.linkedin.com/in/muhammad-rizaldy-nur-cahya-b88182337/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.instagram.com/rizld.y_/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rizaldy10/Rizaldy10/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rizaldy10/Rizaldy10/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rizaldy10/Rizaldy10/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<h2 align="left"> Play game with me</h2>
 
 <img src="https://raw.githubusercontent.com/Rizaldy10/Rizaldy10/output/snake.svg" alt="Snake animation" />
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
